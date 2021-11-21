@@ -1,0 +1,1 @@
+In information retrieval, tfidf, short for term frequency–inverse document document document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus

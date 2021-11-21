@@ -1,0 +1,1 @@
+The tfidf is the product of two statistics, term frequency and inverse frequency. There are various ways for determining the exact values of both statistics
